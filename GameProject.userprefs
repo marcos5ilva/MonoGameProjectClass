@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="GameProject\GameProject.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameProject\Program.cs">
+    <Files>
+      <File FileName="GameProject\Game1.cs" Line="7" Column="3" />
+      <File FileName="d:\GameDev\project\GameProject17-04\GameProject\GameProject\CollisionUtils.cs" Line="7" Column="3" />
+      <File FileName="GameProject\Program.cs" Line="15" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
